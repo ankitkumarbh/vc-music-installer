@@ -7,7 +7,7 @@
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/ankitkumarbh/vc-music-installer",
+    "repository": "https://github.com/ankitkumarbh/vc-music-installer1",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
